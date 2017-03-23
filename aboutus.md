@@ -4,7 +4,7 @@ title: About Us
 permalink: /aboutus/
 ---
 
-description: "Contruída a partir da experiência de mais de 15 anos de seus fundadores, a eQuanta iniciou suas atividades em 2013, 
+Contruída a partir da experiência de mais de 15 anos de seus fundadores, a eQuanta iniciou suas atividades em 2013, 
 propondo abordagens orgânicas de cooperação e sinergia entre profissionais e clientes, aliando rigor técnico, 
 custo-efetividade e excelência nas relações.
 
@@ -18,5 +18,5 @@ científico e tradicional, em processos interativos e participativos.
 
 
 Nossa atuação técnica é pautada na utilização de conhecimento e ferramentas de vanguarda, atuando 
-em conjunto com metodologias consolidadas e reconhecidas."
+em conjunto com metodologias consolidadas e reconhecidas.
 
