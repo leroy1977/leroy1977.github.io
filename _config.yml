@@ -1,12 +1,16 @@
 
+
+# Site settings
+
 title: eQuanta
 email: euripes@gmail.com
 theme: jekyll-theme-cayman
 description: Diligentia laborat omni silvae et orb maria
 baseurl: " " 
-url: http://www.equanta.com.br
+url: http://leroy1977.github.io/
 
 github_username: eQuanta.env
 facebook_username: @eQuanta.env
 
-
+# Build settings
+markdown: kramdown
