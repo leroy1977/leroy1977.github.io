@@ -5,7 +5,8 @@ theme: jekyll-theme-cayman
 description: Diligentia laborat omni silvae et orb maria
 baseurl: " " 
 url: http://www.equanta.com.br
-twitter_username: eQuanta.env
+
 github_username: eQuanta.env
+facebook_username: @eQuanta.env
 
 
