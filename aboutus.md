@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /aboutus/
+---
 
 Contruída a partir da experiência de mais de 15 anos de seus fundadores, a eQuanta iniciou suas atividades em 2013, 
 propondo abordagens orgânicas de cooperação e sinergia entre profissionais e clientes, aliando rigor técnico, 
