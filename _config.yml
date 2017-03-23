@@ -10,7 +10,6 @@ baseurl: " "
 url: http://leroy1977.github.io/
 
 github_username: eQuanta.env
-facebook_username: @eQuanta.env
 
 # Build settings
 markdown: kramdown
