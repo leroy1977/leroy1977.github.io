@@ -4,7 +4,7 @@ title: About Us
 permalink: /aboutus/
 ---
 
-Contruída a partir da experiência de mais de 15 anos de seus fundadores, a eQuanta iniciou suas atividades em 2013, 
+Organizada a partir da experiência de mais de 15 anos de sua equipe, a eQuanta iniciou suas atividades em 2013, 
 propondo abordagens orgânicas de cooperação e sinergia entre profissionais e clientes, aliando rigor técnico, 
 custo-efetividade e excelência nas relações.
 
@@ -13,8 +13,7 @@ Nosso principal objeto é o diagnóstico, gestão e recuperação da biodiversid
 em interação com a diversidade cultural e pluralidade de atores inerente às questões socioambientais.
 
 
-Acreditamos que a sustentabilidade socioecológica é possível e pode ser construída a partir da produção e uso do conhecimento técnico,
-científico e tradicional, em processos interativos e participativos.
+Acreditamos que a sustentabilidade socioecológica é possível e pode ser construída a partir da produção e uso do conhecimento técnico, científico e tradicional, em processos interativos e participativos.
 
 
 Nossa atuação técnica é pautada na utilização de conhecimento e ferramentas de vanguarda, atuando 
