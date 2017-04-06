@@ -2,22 +2,24 @@
 layout: default
 ---
 
-<div class="home">
+{{% if site.posts.size == 0 %}}
+<h2> No posts found =( </h2>
 
-  <h1 class="page-heading">Posts</h1>
+{% else %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+{% for post in site.posts %}
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+<div class = "content.list">
+  <div class = "list.item">
+    <h2 class = "list.post.title">
+      <a href= "{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-      </li>
+        <div class = "list.post.date">
+          <time>{{post.date | date_to_string}}</time>
+    </div>
+    </div>
+  </div>
     {% endfor %}
-  </ul>
+ {% endif %}
+ 
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
-</div>
