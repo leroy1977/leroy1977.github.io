@@ -3,7 +3,7 @@ layout: page
 title: About Us
 permalink: /aboutus/
 ---
-/home/euro/Pictures/11990608_128130250871161_3719280075840766088_n.png
+![11990608_128130250871161_3719280075840766088_n](/home/euro/Pictures/11990608_128130250871161_3719280075840766088_n.png)
 
 
 Organizada a partir da experiência de mais de 15 anos de sua equipe, a eQuanta iniciou suas atividades em 2013, 
