@@ -12,4 +12,4 @@ github_username: eQuanta.env
 
 # Build settings
 markdown: kramdown
-permalink: /:title/
+permalink: /:year/:month/:day/:title
