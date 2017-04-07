@@ -13,3 +13,5 @@ github_username: eQuanta.env
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
